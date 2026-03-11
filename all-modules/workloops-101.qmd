@@ -17,3 +17,9 @@ TBD
 </iframe>
 
 ***Presented by:*** *Dr. Simon Sponberg & Casey King*
+
+## Explore these concepts using the example data sets from the video above
+
+Download the code used in this workshop:
+
+-   [Jupyter Notebook file ](..//resources/WorkLoops101/IMSI Work Loop Workshop Jupyter Notebook.ipynb)
