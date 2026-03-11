@@ -115,5 +115,8 @@
   },
   "paths-folder/InProgress/muscle-phys-path.qmd": {
     "muscle-phys-path.html": "fe468c3b"
+  },
+  "resources/WorkLoops101/IMSI Work Loop Workshop Jupyter Notebook.ipynb": {
+    "IMSI Work Loop Workshop Jupyter Notebook.html": "ebe3d130"
   }
 }
